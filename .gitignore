@@ -1,0 +1,11 @@
+# Common
+*.log
+*.bak
+
+# for VisualStudio 2019
+.suo
+.vs
+bin
+obj
+
+# for JAVA
